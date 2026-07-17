@@ -1,0 +1,1703 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "salary_min": 29000,
+            "description": "Reed’s further education recruiters provide sector specialists who inspire young adults to achieve. We operate five national further education hubs which cover the whole of the UK. Our dedicated FE consultants work in partnership with clients to identify and source the best further education professionals across all institutions, including colleges, sixth forms, prisons, leadership roles and training providers. We provide a full suite of recruitment solutions, including temporary, permanent, fi…",
+            "id": "5804007899",
+            "contract_time": "full_time",
+            "created": "2026-07-17T01:42:14Z",
+            "company": {
+                "display_name": "Reed",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "label": "Consultancy Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "consultancy-jobs"
+            },
+            "contract_type": "permanent",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5804007899?utm_medium=api&utm_source=9e3456fc",
+            "salary_max": 29000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNDAwNzg5OSIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.QrkF7SGNt-XwJVS5TYk1jAl8CkhRjzPzVZrNYtB_2mk",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Recruitment Consultant",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "UK",
+                    "North West England",
+                    "Greater Manchester",
+                    "Manchester"
+                ],
+                "display_name": "Manchester, Greater Manchester",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "title": "Freelance Senior Art Director",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "UK",
+                    "London"
+                ],
+                "display_name": "London, UK",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_max": 145600,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5804007825?utm_medium=api&utm_source=9e3456fc",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNDAwNzgyNSIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.nZEDTtQyuKIGcw5Hm-Z-3mRbvgNvCfiaIw2ncsyDya8",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Creative & Design Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "creative-design-jobs"
+            },
+            "contract_type": "contract",
+            "salary_min": 145600,
+            "description": "Title: Freelance Associate Creative Director / Senior Art Director Start: Wednesday, 22nd July Length: Until September (likely to extend) Work set-up: Hybrid, 3 days in-house per week (non-negotiable) Client: Agency Contract: Inside IR35 (must use an approved Umbrella, not Limited Company or Sole Trader) Location: Farringdon, London (EC1) Working days: Full-time (5 days a week) Career level: Senior Rate: £560/day Brief: Freelance Associate Creative Director / Senior Art Director. Farringdon, Lo…",
+            "contract_time": "full_time",
+            "id": "5804007825",
+            "created": "2026-07-17T01:42:12Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Salt Search"
+            }
+        },
+        {
+            "location": {
+                "display_name": "Oxford, Oxfordshire",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "South East England",
+                    "Oxfordshire",
+                    "Oxford"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5804007138?utm_medium=api&utm_source=9e3456fc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "scientific-qa-jobs",
+                "label": "Scientific & QA Jobs"
+            },
+            "latitude": 51.7523,
+            "id": "5804007138",
+            "salary_min": 25000,
+            "description": "Associate Scientist, Biology, Plant Science, AgriTech My client, a pioneering start-up organisation within the AgriTech industry, are in urgent need of an Associate Scientist to join their team at an exciting time of growth!Joining the company at their Oxford facility, the Associate Scientist will work within the High Throughput Screening (HTS) team, carrying out manual and automated in vivo screening assays to identify novel herbicidal compounds. You'll also support compound profiling using ad…",
+            "longitude": -1.25588,
+            "company": {
+                "display_name": "Corriculo Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Associate Scientist, Biology, Plant Science, AgriTech",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNDAwNzEzOCIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.Y6KJ7skf4UHCn3UYdxSKX8dtDf2jmC6QkUAmvBWJJc4",
+            "salary_max": 30000,
+            "contract_type": "permanent",
+            "contract_time": "full_time",
+            "created": "2026-07-17T01:41:52Z"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "RAC"
+            },
+            "longitude": -1.434413,
+            "description": "Join the RAC as a Roadside Technician Join the team that keeps the UK moving. As a Roadside Technician with a Level 2 Light Vehicle Maintenance qualification (or equilavent) and at least 2 years' experience , youll receive: A market-competitive base salary of £36,400 and a realistic OTE of £61,000, with top-performers earning significantly more through bonuses and enhanced overtime rates. Start and finish on your driveway. Demand-led shifts averaging 40 hours per week, with optional overtime av…",
+            "salary_min": 60000,
+            "id": "5804006481",
+            "latitude": 53.235737,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5804006481?se=UjwmDHqB8RG8gPrPJTs3KA&utm_medium=api&utm_source=9e3456fc&v=0CAA1C79E0930619529AD149C402FA7E1B8FCF47",
+            "location": {
+                "area": [
+                    "UK",
+                    "East Midlands",
+                    "Derbyshire",
+                    "Chesterfield",
+                    "Whittington Moor"
+                ],
+                "display_name": "Whittington Moor, Chesterfield",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "created": "2026-07-17T01:41:19Z",
+            "contract_type": "permanent",
+            "salary_max": 60000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWp3bURIcUI4Ukc4Z1ByUEpUczNLQSIsImkiOiI1ODA0MDA2NDgxIn0.kPHKCI4tvIjmE6-1FVHqgYfcRYu8gei2mZdL3y52l4g",
+            "salary_is_predicted": "0",
+            "title": "Roadside Technician - Chesterfield"
+        },
+        {
+            "salary_is_predicted": "1",
+            "location": {
+                "display_name": "Wild Mill, Bridgend",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "Wales",
+                    "Bridgend County",
+                    "Bridgend",
+                    "Wild Mill"
+                ]
+            },
+            "title": "EE Retail Advisor",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNDAwNjQ3NiIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.ueL8qJHjtJua8ATUx2KTa1qZo5D8eNItuIwHPoQ4HJo",
+            "salary_max": 21762.38,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5804006476?se=UjwmDHqB8RG8gPrPJTs3KA&utm_medium=api&utm_source=9e3456fc&v=52C84FBFFDED0550ABA364BC1632983FE3235594",
+            "latitude": 51.506689,
+            "category": {
+                "tag": "retail-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Retail Jobs"
+            },
+            "longitude": -3.578033,
+            "company": {
+                "display_name": "EE Retail",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-07-17T01:41:19Z",
+            "id": "5804006476",
+            "salary_min": 21762.38,
+            "description": "Retail Advisor Salary: £13.66 per hour Working hours: 20 Location: Bridgend Our stores operate 7 days a week, with working hours aligned to store trading times. To support our customers, we are particularly looking for candidates who can offer flexibility to work on Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday. We recommend checking the specific store opening and closing times when considering your availability. Shift patterns are based on store demand and can be subject to ch…"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5804006478?se=UjwmDHqB8RG8gPrPJTs3KA&utm_medium=api&utm_source=9e3456fc&v=FC1A83483790D589CDF64EDBE7E601DC8CE56E67",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Erdington, Birmingham",
+                "area": [
+                    "UK",
+                    "West Midlands",
+                    "Birmingham",
+                    "Erdington"
+                ]
+            },
+            "longitude": -1.844793,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Halfords"
+            },
+            "id": "5804006478",
+            "salary_min": 40000,
+            "description": "On-target earnings up to £42,420 Comprising a base salary of £33,290 - £36,620 An uncapped monthly bonus scheme with average additional earnings of £5,800 per year. 5 days a week (This centre only trades on Sunday's for 10 weeks each year) Earn extra with our refer a friend scheme T&Cs Apply Were the UKs largest Automotive service, maintenance and repair business and we offer great career opportunities, benefits and an uncapped bonus scheme. As a Vehicle Technician/ Mechanic, you will be alread…",
+            "latitude": 52.522269,
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWp3bURIcUI4Ukc4Z1ByUEpUczNLQSIsImkiOiI1ODA0MDA2NDc4In0.2oPE4GUxjOOck-qoUoKKggSiVO4S5EswzQGuFuB07WQ",
+            "salary_max": 40000,
+            "salary_is_predicted": "0",
+            "title": "Vehicle Technician",
+            "created": "2026-07-17T01:41:19Z",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "MOT Tester",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWp3bURIcUI4Ukc4Z1ByUEpUczNLQSIsImkiOiI1ODA0MDA2NDg0In0.HmYfPNg7IxreKqWR1xLfOCbTCVj-k-h4z68KuPETLb8",
+            "salary_max": 40000,
+            "contract_type": "permanent",
+            "created": "2026-07-17T01:41:19Z",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pride Park, Derby",
+                "area": [
+                    "UK",
+                    "East Midlands",
+                    "Derbyshire",
+                    "Derby",
+                    "Pride Park"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5804006484?se=UjwmDHqB8RG8gPrPJTs3KA&utm_medium=api&utm_source=9e3456fc&v=8946ADCCABD17CFE92C85EA04D0849F7AEA8726C",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "latitude": 52.921946,
+            "id": "5804006484",
+            "description": "On-target earnings up to £42,850 Comprising a base salary of £32,970 - £37,550 An uncapped monthly bonus scheme with average additional earnings of £5,300 per year. 5 days a week (This centre only trades on Sunday's for 10 weeks each year) Earn extra with our refer a friend scheme T&Cs Apply If you are a qualified MOT Tester join us at Halfords, the UKs largest Automotive service, maintenance and repair business, where we offer great career opportunities, benefits and uncapped bonus scheme. Ben…",
+            "salary_min": 40000,
+            "longitude": -1.47428,
+            "company": {
+                "display_name": "Halfords",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "created": "2026-07-17T01:41:13Z",
+            "contract_time": "full_time",
+            "contract_type": "permanent",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWp3bURIcUI4Ukc4Z1ByUEpUczNLQSIsImkiOiI1ODA0MDA2MzU3In0.v7MnGeliKbuJRbbQ7cXI-DRIbZ4_35KbtojQqegCnnE",
+            "salary_max": 25000,
+            "title": "Branch Manager",
+            "salary_is_predicted": "0",
+            "id": "5804006357",
+            "salary_min": 25000,
+            "description": "Job Description Join Our Team as a Branch Manager at Tylers. At Tylers , part of the Connells Group, we are proud to be the Home of Opportunity . Many of our senior leaders began their careers in branch roles, and we actively invest in continuous development, clear progression, and long-term careers. This Branch Manager role in Willingham is a key leadership opportunity within one of the UK’s most successful estate agency groups. Your Role: As Branch Manager, you will have full responsibility f…",
+            "longitude": 0.131237,
+            "company": {
+                "display_name": "Tylers",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "sales-jobs",
+                "label": "Sales Jobs"
+            },
+            "latitude": 52.202499,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5804006357?utm_medium=api&utm_source=9e3456fc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "UK",
+                    "Eastern England",
+                    "Cambridgeshire",
+                    "Cambridge"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Cambridge, Cambridgeshire"
+            }
+        },
+        {
+            "location": {
+                "area": [
+                    "UK",
+                    "Eastern England",
+                    "Norfolk",
+                    "Norwich"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Norwich, Norfolk"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5804006328?utm_medium=api&utm_source=9e3456fc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Sales Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "sales-jobs"
+            },
+            "latitude": 52.628101,
+            "id": "5804006328",
+            "description": "Job Description Join Our Team as a Branch Manager at William H Brown. At William H Brown , part of the Connells Group, we are proud to be the Home of Opportunity . Many of our senior leaders began their careers in branch roles, and we actively invest in continuous development, clear progression, and long-term careers. This Branch Manager role in Stalham is a key leadership opportunity within one of the UK’s most successful estate agency groups. Your Role: As Branch Manager, you will have full r…",
+            "salary_min": 25000,
+            "longitude": 1.29935,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "William H Brown"
+            },
+            "title": "Branch Manager",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNDAwNjMyOCIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.-2uyzaWLTYp3xnejGP70jRjdNxN66PveanMFZBDvMc0",
+            "salary_max": 30000,
+            "contract_type": "permanent",
+            "contract_time": "full_time",
+            "created": "2026-07-17T01:40:48Z"
+        },
+        {
+            "created": "2026-07-17T01:11:25Z",
+            "contract_time": "full_time",
+            "contract_type": "permanent",
+            "salary_max": 22000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWp3bURIcUI4Ukc4Z1ByUEpUczNLQSIsImkiOiI1ODA0MDA0MzM2In0.KJo21n7x57DLw6H304oujH-bolkReMFizEpqnquxXo4",
+            "title": "Healthcare Assistant",
+            "salary_is_predicted": "0",
+            "description": "Career Changer? Train for a New Role in Business, Healthcare, Technology or Public Services Location: Various UK Campuses & Online Job Type: Part-Time Study (2 Days Per Week) Salary/Package: Tuition Fee Funding & Maintenance Support may be available (subject to eligibility) About the Opportunity Mayfair Students is helping adults across the UK move into new careers through flexible, funded higher education programmes — built around work, family and other commitments. Study just 2 days a week wi…",
+            "salary_min": 22000,
+            "id": "5804004336",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Mayfair Students"
+            },
+            "longitude": -0.016402,
+            "category": {
+                "label": "Healthcare & Nursing Jobs",
+                "tag": "healthcare-nursing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "latitude": 51.54571,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5804004336?utm_medium=api&utm_source=9e3456fc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "UK",
+                    "London",
+                    "East London"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "East London, London"
+            }
+        },
+        {
+            "location": {
+                "display_name": "South East London, London",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "London",
+                    "South East London"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5804004335?utm_medium=api&utm_source=9e3456fc",
+            "latitude": 51.451818,
+            "category": {
+                "label": "Part time Jobs",
+                "tag": "part-time-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "Mayfair Students",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -0.02806,
+            "salary_min": 22000,
+            "description": "Career Changer? Train for a New Role in Business, Healthcare, Technology or Public Services Location: Various UK Campuses & Online Job Type: Part-Time Study (2 Days Per Week) Salary/Package: Tuition Fee Funding & Maintenance Support may be available (subject to eligibility) About the Opportunity Mayfair Students is helping adults across the UK move into new careers through flexible, funded higher education programmes — built around work, family and other commitments. Study just 2 days a week wi…",
+            "id": "5804004335",
+            "salary_is_predicted": "0",
+            "title": "Proffesional Services",
+            "salary_max": 22000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNDAwNDMzNSIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.TIPJIbatSFgkQWaqLNzOWHppKH_HkqPmfbN_TsfvH-c",
+            "contract_type": "permanent",
+            "created": "2026-07-17T01:09:45Z",
+            "contract_time": "full_time"
+        },
+        {
+            "longitude": -0.118087,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Arriva Limited"
+            },
+            "id": "5803995112",
+            "description": "Arriva is a leading European passenger transport partner, operating in 11 countries across the UK and Europe. We employ around 35,000 people and deliver more than 1.5 billion passenger journeys every year, connecting people and communities safely, reliably and sustainably. With a heritage dating back to 1938, an ambitious growth and sustainability agenda, and an exciting new chapter following our acquisition by I Squared Capital in 2024, this is a pivotal time to be part of our journey. We're l…",
+            "salary_min": 42160.08,
+            "latitude": 51.520616,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803995112?utm_medium=api&utm_source=9e3456fc",
+            "location": {
+                "display_name": "Holborn, Central London",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "London",
+                    "Central London",
+                    "Holborn"
+                ]
+            },
+            "created": "2026-07-17T00:55:44Z",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NTExMiIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.oBZO0BgKcd2pSMTuvTcJHlAJiC63-QDeguw0NqV3FIM",
+            "salary_max": 42160.08,
+            "salary_is_predicted": "1",
+            "title": "IT Site Engineer"
+        },
+        {
+            "description": "Job Description As a Retail Customer Service Manager , you will play an important role in the Entain family, delivering top customer service and driving standards daily. In our exciting, dynamic Ladbrokes & Coral betting shops no two days are the same and you'll have the chance to contribute to a team that wins together and does what's right by our customers. Reporting to the Shop Manager you will be part of the Shop team , who will serve customers and build relationships to encourage repeat cu…",
+            "salary_min": 33731.5,
+            "created": "2026-07-17T00:55:11Z",
+            "id": "5803995094",
+            "company": {
+                "display_name": "Entain",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -0.892101,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "retail-jobs",
+                "label": "Retail Jobs"
+            },
+            "latitude": 52.238506,
+            "salary_max": 33731.5,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803995094?utm_medium=api&utm_source=9e3456fc",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NTA5NCIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.XZiUuWYRe7m2kW4udhz85KdQBAH_OQ5QaSTKOJp3L8M",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Retail Customer Service",
+            "location": {
+                "display_name": "Semilong, Northampton",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "East Midlands",
+                    "Northamptonshire",
+                    "Northampton",
+                    "Semilong"
+                ]
+            },
+            "salary_is_predicted": "1"
+        },
+        {
+            "longitude": -0.410578,
+            "company": {
+                "display_name": "Entain",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5803995095",
+            "created": "2026-07-17T00:55:11Z",
+            "salary_min": 32094.62,
+            "description": "Job Description As a Retail Customer Service Manager , you will play an important role in the Entain family, delivering top customer service and driving standards daily. In our exciting, dynamic Ladbrokes & Coral betting shops no two days are the same and you'll have the chance to contribute to a team that wins together and does what's right by our customers. Reporting to the Shop Manager you will be part of the Shop team , who will serve customers and build relationships to encourage repeat cu…",
+            "latitude": 51.329513,
+            "category": {
+                "label": "Retail Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "retail-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NTA5NSIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.3YtPpNNeGCVOUX8PlA_T7yYIrHtSe0Ixvz1H4ps5-44",
+            "salary_max": 32094.62,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803995095?utm_medium=api&utm_source=9e3456fc",
+            "location": {
+                "area": [
+                    "UK",
+                    "South East England",
+                    "Surrey",
+                    "Cobham",
+                    "Downside"
+                ],
+                "display_name": "Downside, Cobham",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "1",
+            "title": "Retail Customer Service"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "part-time-jobs",
+                "label": "Part time Jobs"
+            },
+            "latitude": 53.591209,
+            "id": "5803995084",
+            "salary_min": 50000,
+            "description": "About us WithYou provides free and confidential support, without judgement, to more than 100,000 people every year experiencing challenges with drugs, alcohol and mental health across England and Scotland. Our name reflects who we are – a positive place where people can progress, connect with others and get friendly, expert help in a way that’s right for them. Our staff team changes lives. If you’re passionate about helping people get the support they need for issues with drugs, alcohol and men…",
+            "longitude": -0.653434,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "WithYou"
+            },
+            "location": {
+                "display_name": "Dragonby, Scunthorpe",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "Yorkshire And The Humber",
+                    "North Lincolnshire",
+                    "Scunthorpe",
+                    "Dragonby"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803995084?utm_medium=api&utm_source=9e3456fc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_type": "permanent",
+            "created": "2026-07-17T00:55:05Z",
+            "contract_time": "part_time",
+            "title": "High Intensity CBT Therapist - Part Time",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NTA4NCIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.GId74QRvJBJkUyrOA2axu-VO5DdBBrb4ELHmg8RCh8E",
+            "salary_max": 50000
+        },
+        {
+            "contract_type": "permanent",
+            "contract_time": "full_time",
+            "created": "2026-07-17T00:55:05Z",
+            "title": "Waking Night Mental Health Support Worker",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NTA4NiIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.gWAiSXPBJRPUfZsqWABCgZOPRPDP6txHj6fjRgqhw7U",
+            "salary_max": 27996,
+            "category": {
+                "label": "Healthcare & Nursing Jobs",
+                "tag": "healthcare-nursing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "latitude": 50.781975,
+            "id": "5803995086",
+            "description": "About us Venture-People is an award-winning organisation, formed from our shared ambition to provide high-quality and psychologically informed support. We provide bespoke, community-based support to individuals with complex needs; including a mental health diagnosis, neurodiversity, or those who may have endured trauma. The people we support may have spent an extended period in hospital or another setting, therefore we utilise a person-centred approach; empowering individuals to become as indep…",
+            "salary_min": 27996,
+            "longitude": 0.294174,
+            "company": {
+                "display_name": "Venture People",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "UK",
+                    "South East England",
+                    "East Sussex",
+                    "Eastbourne",
+                    "Old Town"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Old Town, Eastbourne"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803995086?utm_medium=api&utm_source=9e3456fc",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "contract_time": "full_time",
+            "created": "2026-07-17T00:55:04Z",
+            "contract_type": "permanent",
+            "salary_max": 31595,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NTA4MyIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.QPLMljmtTximrOH76pBh0ESOgrzkYKXjisbNfK7f_QQ",
+            "title": "Mental Health Team Leader - Eastbourne",
+            "salary_is_predicted": "0",
+            "description": "About us Venture-People is an award-winning organisation, formed from our shared ambition to provide high-quality and psychologically informed support. We provide bespoke, community-based support to individuals with complex needs; including a mental health diagnosis, neurodiversity, or those who may have endured trauma. The people we support may have spent an extended period in hospital or another setting, therefore we utilise a person-centred approach; empowering individuals to become as indep…",
+            "salary_min": 29702,
+            "id": "5803995083",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Venture People"
+            },
+            "longitude": 0.294174,
+            "category": {
+                "tag": "healthcare-nursing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Healthcare & Nursing Jobs"
+            },
+            "latitude": 50.781975,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803995083?utm_medium=api&utm_source=9e3456fc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Old Town, Eastbourne",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "South East England",
+                    "East Sussex",
+                    "Eastbourne",
+                    "Old Town"
+                ]
+            }
+        },
+        {
+            "contract_type": "contract",
+            "created": "2026-07-17T00:43:41Z",
+            "contract_time": "full_time",
+            "salary_is_predicted": "0",
+            "title": "Warehouse Operative",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWp3bURIcUI4Ukc4Z1ByUEpUczNLQSIsImkiOiI1ODAzOTk0MjgxIn0.DN5FLJH333989gmypYZt9y_v0Pr0u_m6mgJSj3LRjlw",
+            "salary_max": 27248,
+            "latitude": 52.258301,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "manufacturing-jobs",
+                "label": "Manufacturing Jobs"
+            },
+            "longitude": -1.16043,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CRC Recruitment Ltd"
+            },
+            "id": "5803994281",
+            "description": "Warehouse Operative Full Time Day Shift £13.10 Per Hour 0800 - 2000 Shift Pattern: 4 on 4 off CRC Recruitment Ltd are proud to partner with our client who are seeking Warehouse Operatives to join their team in Daventry. Position Summary To carry out the correct handling and processing of customers goods in line with Standard Operating Procedures. Deputise for the Team Leader in his/her absence. Support continuous improvement across the site, ensuring opportunities are reported and recorded. Pro…",
+            "salary_min": 27248,
+            "location": {
+                "area": [
+                    "UK",
+                    "East Midlands",
+                    "Northamptonshire",
+                    "Daventry"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Daventry, Northamptonshire"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994281?utm_medium=api&utm_source=9e3456fc"
+        },
+        {
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994276?utm_medium=api&utm_source=9e3456fc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "UK",
+                    "Yorkshire And The Humber",
+                    "South Yorkshire",
+                    "Barnsley"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Barnsley, South Yorkshire"
+            },
+            "id": "5803994276",
+            "description": "Warehouse Operative - Despatch Barnsley, South Yorkshire, S72 7BN £12.75 - Per Hour Hours of work - Monday to Friday - 9am to 5.30pm Temporary Contract - Ends 29th August 2026 The Job Working as a Warehouse Operative Despatch you will work as part of the Companys Operations Team which provide a highly effective and customer focused service. The job involves performing order picking and packing duties and vehicle loading in order to distribute products for end consumers, care homes and other bus…",
+            "salary_min": 26000,
+            "longitude": -1.48127,
+            "company": {
+                "display_name": "phs Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "label": "Logistics & Warehouse Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "logistics-warehouse-jobs"
+            },
+            "latitude": 53.552898,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDI3NiIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.HOujDGmzjgVbqkZGwgDrm_8hT6XQOSmsjZ6a4bTuBL0",
+            "salary_max": 26000,
+            "title": "Warehouse Operative",
+            "salary_is_predicted": "0",
+            "created": "2026-07-17T00:43:41Z",
+            "contract_type": "contract"
+        },
+        {
+            "contract_time": "full_time",
+            "created": "2026-07-17T00:43:41Z",
+            "salary_max": 46612,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDI3OSIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.4jcyD2nnytHFJsy6xMhVS49v6l-wl4kWsCtiZE3TXiM",
+            "title": "Warehouse Operative - Bracknell - DBS Required",
+            "salary_is_predicted": "0",
+            "salary_min": 31428,
+            "description": "We are currently recruiting experienced, full-time Warehouse Operative for our client based in the Bracknell (RG12) area. We are looking for individuals with previous warehouse experience who are ready to join a fast-paced and supportive team. Key Information Job Title: Warehouse Operative Location: Bracknell (RG12) Hours: Monday-Friday, 8:30am-5:00pm Pay Rate: £15.11 per hour Contract: Tempoary ongoing - Full-time hours Requirement: A Basic DBS check must be completed prior to starting Main Du…",
+            "id": "5803994279",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Blue Arrow"
+            },
+            "longitude": -0.746479,
+            "category": {
+                "label": "Logistics & Warehouse Jobs",
+                "tag": "logistics-warehouse-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "latitude": 51.417,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994279?utm_medium=api&utm_source=9e3456fc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bracknell, Berkshire",
+                "area": [
+                    "UK",
+                    "South East England",
+                    "Berkshire",
+                    "Bracknell"
+                ]
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "title": "Picker & Packer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWp3bURIcUI4Ukc4Z1ByUEpUczNLQSIsImkiOiI1ODAzOTk0Mjc3In0.ny1KjiiOD7_N8K0jyIESGMTgUO2YQ2arkRMgfFSsOO8",
+            "salary_max": 26436,
+            "contract_type": "permanent",
+            "contract_time": "full_time",
+            "created": "2026-07-17T00:43:41Z",
+            "location": {
+                "display_name": "Ely, Cambridgeshire",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "Eastern England",
+                    "Cambridgeshire",
+                    "Ely"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994277?utm_medium=api&utm_source=9e3456fc",
+            "latitude": 52.399399,
+            "category": {
+                "label": "Logistics & Warehouse Jobs",
+                "tag": "logistics-warehouse-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "longitude": 0.259786,
+            "company": {
+                "display_name": "Labour-tech Recruitment Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5803994277",
+            "description": "Salary: From £12.71 per hour Job Type: Full-time, Seasonal (Summer to Christmas) Location: On-site About the Role We are looking for enthusiastic and reliable Picker & Packers to join our client's friendly warehouse team for the busy seasonal period from summer through to Christmas . This is an excellent opportunity to work in a fast-paced environment where you'll play a key role in assembling and packing high-quality gift hampers that are distributed to retailers across the UK. Full training i…",
+            "salary_min": 26436
+        },
+        {
+            "title": "Warehouse Operative",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWp3bURIcUI4Ukc4Z1ByUEpUczNLQSIsImkiOiI1ODAzOTk0MjgwIn0.M9zBrNvUvVtD1Ny8yNeHTgOKISQ6LvbyYM-ez_LUSvA",
+            "salary_max": 29494,
+            "contract_type": "contract",
+            "created": "2026-07-17T00:43:41Z",
+            "contract_time": "part_time",
+            "location": {
+                "area": [
+                    "UK",
+                    "London",
+                    "Enfield"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Enfield, London"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994280?utm_medium=api&utm_source=9e3456fc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Logistics & Warehouse Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "logistics-warehouse-jobs"
+            },
+            "latitude": 51.6521,
+            "id": "5803994280",
+            "description": "As a Night shift Warehouse Operative, you will be responsible for loading and unloading vehicles, sorting and scanning of parcels into cages/collars. This is a great Temp-to-Perm opportunity with a successful 12-week service period, offering competitive rates of pay starting at £13.48 per hour. The operation is open 7 days a week, and we can accommodate any days of work that suit you. You can choose to work part-time or full-time. The choice is yours, just let our friendly team know your availa…",
+            "salary_min": 28038,
+            "longitude": -0.081533,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Winner Recruitment"
+            }
+        },
+        {
+            "salary_max": 28496,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDI4MiIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.RckOtQdccr6wKfvyCKZVZ01mXaW91pBHWVnXDhOpxCU",
+            "salary_is_predicted": "0",
+            "title": "Warehouse Operative",
+            "created": "2026-07-17T00:43:41Z",
+            "contract_time": "part_time",
+            "contract_type": "contract",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994282?utm_medium=api&utm_source=9e3456fc",
+            "location": {
+                "display_name": "Sheffield, South Yorkshire",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "Yorkshire And The Humber",
+                    "South Yorkshire",
+                    "Sheffield"
+                ]
+            },
+            "company": {
+                "display_name": "Winner Recruitment",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -1.4648,
+            "salary_min": 27040,
+            "description": "As a Night Shift Warehouse Operative you will be responsible for loading and unloading of vehicles, sortation and scanning of parcels into cages/collars. This is a great Temp to Perm opportunity after a successful 12 weeks of service with competitive rates of pay from £13.00 - £13.70 per hour. The operation is open 7 days and week, and we can accommodate any days of work that suits you, you can choose to work part time or full time, the choice is yours, just let our friendly team know your avai…",
+            "id": "5803994282",
+            "latitude": 53.383099,
+            "category": {
+                "label": "Logistics & Warehouse Jobs",
+                "tag": "logistics-warehouse-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "salary_min": 26436,
+            "description": "As an Afternoon shift Warehouse Operative, you will be responsible for loading and unloading vehicles, sorting and scanning of parcels into cages/collars. This is a great Temp to Perm opportunity after a successful 12 weeks of service, with competitive rates of pay starting at £12.71 per hour. The operation is open 7 days a week, and we can accommodate any days of work that suit you. You can choose to work part-time or full-time. The choice is yours, just let our friendly team know your availab…",
+            "id": "5803994278",
+            "company": {
+                "display_name": "Winner Recruitment",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -0.081533,
+            "category": {
+                "label": "Logistics & Warehouse Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "logistics-warehouse-jobs"
+            },
+            "latitude": 51.6521,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994278?utm_medium=api&utm_source=9e3456fc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Enfield, London",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "London",
+                    "Enfield"
+                ]
+            },
+            "created": "2026-07-17T00:43:41Z",
+            "contract_time": "part_time",
+            "contract_type": "contract",
+            "salary_max": 27414,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDI3OCIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.pMTGP1ifkkynOoSZWjKb2PpVHBl1d9oCQ4OnHOzD2YU",
+            "title": "Warehouse Operative",
+            "salary_is_predicted": "0"
+        },
+        {
+            "description": "An exciting opportunity has arisen for an experienced Transport & Warehouse Manager to join a well established logistics business specialising in the secure handling of high value goods. Key Responsibilities Manage daily transport and warehouse operations. Lead and support a team of drivers and warehouse staff. Ensure compliance with UK transport legislation, health & safety and security procedures. Oversee vehicle maintenance, servicing and compliance. Manage secure storage, inventory control …",
+            "salary_min": 45000,
+            "id": "5803994274",
+            "created": "2026-07-17T00:43:35Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Heathrow Personnel"
+            },
+            "longitude": -0.361799,
+            "category": {
+                "label": "Logistics & Warehouse Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "logistics-warehouse-jobs"
+            },
+            "latitude": 51.467602,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994274?utm_medium=api&utm_source=9e3456fc",
+            "salary_max": 45000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWp3bURIcUI4Ukc4Z1ByUEpUczNLQSIsImkiOiI1ODAzOTk0Mjc0In0.gaiRJgj2kTvnKtJ7qrPpWAfTM6C1z0X2Fk9kDYVVfYo",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Transport & Warehouse Manager",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "UK",
+                    "London",
+                    "Hounslow"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hounslow, London"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "WGC Ltd"
+            },
+            "longitude": -1.12952,
+            "description": "Room Attendant Ibis Leicester City, CONSTITUTION HILL, IBIS HOTEL, LE1 1PL Rate: £12.21 | Hours: Guaranteed Hours Each Week Benefits: Fixed hours contract available - Flexible hours to suit you - Life Insurance - Free access to Doctor and Legal helpline - Counselling/Wellbeing Support Service - Discounts from 50 top retailers - Training budget of upto £10,000 per year with unlimited career progression WGC is the UK's leading outsourced hotel services company, helping our clients deliver some of…",
+            "salary_min": 12000,
+            "id": "5803994273",
+            "created": "2026-07-17T00:43:18Z",
+            "latitude": 52.6348,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "hospitality-catering-jobs",
+                "label": "Hospitality & Catering Jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994273?utm_medium=api&utm_source=9e3456fc",
+            "salary_max": 12000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWp3bURIcUI4Ukc4Z1ByUEpUczNLQSIsImkiOiI1ODAzOTk0MjczIn0.D_Uv0pfcKYJJn8orTULjc5lhxkEIpk8atyK3MKY8VG0",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Leicester, Leicestershire",
+                "area": [
+                    "UK",
+                    "East Midlands",
+                    "Leicestershire",
+                    "Leicester"
+                ]
+            },
+            "title": "Room Attendant"
+        },
+        {
+            "category": {
+                "label": "Social work Jobs",
+                "tag": "social-work-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "latitude": 55.86026,
+            "salary_min": 13,
+            "description": "This luxurious, private care facility is situated in the affluent suburb of Glasgow. The care home offers elegant accommodation for up to 80-residents along with outstanding Residential, Dementia, Nursing & Respite care. Care Assistant Contract £13.60 per hour Contracted to up to 44 hours per week Paid PVG pension, uniform provided 5.6 weeks annual leave (based on a full time contract) Role Overview As a Care Assistant, you will make a meaningful difference in our residents lives everyday. This…",
+            "id": "5803994270",
+            "contract_time": "full_time",
+            "created": "2026-07-17T00:43:15Z",
+            "company": {
+                "display_name": "Care Concern Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -4.25596,
+            "title": "Care Assistant",
+            "location": {
+                "display_name": "Glasgow, Scotland",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "Scotland",
+                    "Glasgow"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994270?utm_medium=api&utm_source=9e3456fc",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDI3MCIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.sRkNlDdAOFyVdDCl_UxybRZnuzes2Ue5aKQH6iL8l7Q",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_max": 39566,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWp3bURIcUI4Ukc4Z1ByUEpUczNLQSIsImkiOiI1ODAzOTk0MjcxIn0.EiFWLoHiZdRKrRTAktM4jZbue8S-AS6zOSj1mVEResU",
+            "title": "Female Live in Carer",
+            "salary_is_predicted": "0",
+            "created": "2026-07-17T00:43:15Z",
+            "contract_type": "contract",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994271?utm_medium=api&utm_source=9e3456fc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "UK",
+                    "London",
+                    "South West London"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "South West London, London"
+            },
+            "salary_min": 39566,
+            "description": "Join Our Team and Earn a £400 Bonus! As a thank you for choosing Paragon, once youre fully recruited, youll receive £150 for paid training in your first paycheck and an additional £250 joining bonus after successfully completing your probation period . Apply today and take the next step in your career with a company that truly values and rewards your commitment. About the Role Are you a compassionate, confident and proactive Live-in Carer / Personal Assistant looking for a meaningful role where…",
+            "id": "5803994271",
+            "company": {
+                "display_name": "Paragon Home Healthcare",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -0.195605,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "healthcare-nursing-jobs",
+                "label": "Healthcare & Nursing Jobs"
+            },
+            "latitude": 51.448229
+        },
+        {
+            "latitude": 51.340199,
+            "category": {
+                "label": "Healthcare & Nursing Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "healthcare-nursing-jobs"
+            },
+            "longitude": -0.744399,
+            "company": {
+                "display_name": "Paragon Home Healthcare",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-07-17T00:43:14Z",
+            "id": "5803994269",
+            "salary_min": 40131,
+            "description": "Join Our Team and Earn a £400 Bonus! As a thank you for choosing us, once you're fully recruited to work,youll receive £150 for your paid training included in your first paycheck and an additional£250 joining bonus once you've successfully passed your probation period. Apply today and take the next step in your career with a company that rewards your commitment! About the Role: The client is a warm and lovely woman in her 60s living with a progressive MND . She lives in her fully adapted home w…",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "UK",
+                    "South East England",
+                    "Surrey",
+                    "Camberley"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Camberley, Surrey"
+            },
+            "title": "Female Live In Carer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDI2OSIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.ObQ7gUO0C1Hkg8qBV2E-kbO8KUc0col-O4DGaKCNNdE",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994269?utm_medium=api&utm_source=9e3456fc",
+            "salary_max": 40131
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994268?utm_medium=api&utm_source=9e3456fc",
+            "salary_max": 24364.53,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDI2OCIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.7EhfBrKgQA3-nb80rDKjtImdZuQuRXHW5GxgPdSvcBk",
+            "salary_is_predicted": "1",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Aylesbury, Buckinghamshire",
+                "area": [
+                    "UK",
+                    "South East England",
+                    "Buckinghamshire",
+                    "Aylesbury"
+                ]
+            },
+            "title": "Care Assistant",
+            "company": {
+                "display_name": "Agincare Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -0.816662,
+            "salary_min": 24364.53,
+            "description": "Package Description: Could you be the reason someone smiles? Join our team as a Care Assistant and help residents live with comfort, dignity, and joy. From daily support to meaningful moments, your kindness can make a real difference. Bring your compassion; well provide the training and support you need. What youll receive: Outstanding career development with funded training (up to QCF Level 5) 36 hours per week including alternate weekends Days and nights available Refer-a-Friend bonus up to £…",
+            "id": "5803994268",
+            "created": "2026-07-17T00:43:14Z",
+            "latitude": 51.8158,
+            "category": {
+                "tag": "social-work-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Social work Jobs"
+            }
+        },
+        {
+            "title": "SAP Payroll/HCM Consultant",
+            "location": {
+                "area": [
+                    "UK",
+                    "London",
+                    "Central London",
+                    "The City"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "The City, Central London"
+            },
+            "salary_is_predicted": "0",
+            "salary_max": 109200,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994267?utm_medium=api&utm_source=9e3456fc",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDI2NyIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.BzrIH2nV0cmWUa4D6yDvNx8z47f4_tfkE5eCcFklHGM",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "contract_type": "contract",
+            "salary_min": 98800,
+            "description": "Job Title: SAP Payroll & HCM Consultant Location: London, UK (Hybrid) Contract Type: Contract/Freelance About the Role We are looking for an experienced SAP Payroll & HCM Consultant to lead a critical system separation project. Acting as the primary bridge between our internal business units and our external payroll vendor, you will be instrumental in creating new Legal Entities (LEs) and enabling separate end-to-end (E2E) payroll runs for distinct business groups within our legacy system. If y…",
+            "created": "2026-07-17T00:43:06Z",
+            "id": "5803994267",
+            "company": {
+                "display_name": "Randstad Digital",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "longitude": -0.016402,
+            "company": {
+                "display_name": "Sterling Bridge Limited",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5803994264",
+            "created": "2026-07-17T00:42:49Z",
+            "description": "Role: 1st Line Engineer Location: East London Salary: £25,000 £30,000 Cloud-First MSP | Cloud & Cyber Security Exposure | Unrivalled Career Development Were partnered with a modern, rapidly growing Managed Service Provider that's passionate about developing the next generation of IT professionals. With continued investment in cloud technologies, cyber security, and digital transformation projects, they're now looking for an ambitious 1st Line Engineer to join their expanding technical team. Thi…",
+            "salary_min": 30000,
+            "latitude": 51.54571,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDI2NCIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.aT3FygocMg0czgZ_vKGpyKCLDGwNUk-6ziAcnywQdxw",
+            "salary_max": 30000,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994264?utm_medium=api&utm_source=9e3456fc",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "UK",
+                    "London",
+                    "East London"
+                ],
+                "display_name": "East London, London",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "1st Line Support Engineer"
+        },
+        {
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994263?utm_medium=api&utm_source=9e3456fc",
+            "salary_max": 39946.06,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDI2MyIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.EPIS-lffiiWNDsz1qZGKFd4iSJIYA1nlKtj9geVKAVA",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Remote AV Support Engineer",
+            "location": {
+                "display_name": "Central London, London",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "London",
+                    "Central London"
+                ]
+            },
+            "salary_is_predicted": "1",
+            "description": "Looking to move your AV career away from being on-site every day? We're recruiting for a Helpdesk / VNOC Engineer to join a global AV support operation, providing remote technical support for enterprise audiovisual systems around the world. This is an excellent opportunity for either: An experienced AV Helpdesk or VNOC Engineer, or An AV Technician looking to progress into a remote technical support role. Please note: This position operates on a 24/7 rotating shift pattern , which is a non-nego…",
+            "salary_min": 39946.06,
+            "id": "5803994263",
+            "created": "2026-07-17T00:42:49Z",
+            "company": {
+                "display_name": "Jacobs Massey",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -0.11126,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "latitude": 51.51985
+        },
+        {
+            "created": "2026-07-17T00:42:49Z",
+            "contract_time": "full_time",
+            "salary_max": 37807.12,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDI1OSIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.6LZJOHqoc-3KbhHOdqgpfvgwNrbpqtA6LDF0C04Sq7E",
+            "title": "Supported Housing Officer",
+            "salary_is_predicted": "1",
+            "description": "At Places for People, we hire People, not numbers! So, if you like the sound of one of our jobs, please apply - you could be just who we're looking for! Of course, experience and track record are important, but we're more interested in hiring someone that embodies our People Promises. That's someone that does the right thing, is enthusiastic and motivated to grow, believes in Community spirit, is respectful and enjoys their work. As the UK's leading Social Enterprise, we're dedicated to creatin…",
+            "salary_min": 37807.12,
+            "id": "5803994259",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Places for People Living Plus"
+            },
+            "longitude": -0.13538,
+            "category": {
+                "label": "Social work Jobs",
+                "tag": "social-work-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "latitude": 51.540478,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994259?utm_medium=api&utm_source=9e3456fc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "UK",
+                    "London",
+                    "North West London",
+                    "Camden"
+                ],
+                "display_name": "Camden, North West London",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Stoke-On-Trent, Staffordshire",
+                "area": [
+                    "UK",
+                    "West Midlands",
+                    "Staffordshire",
+                    "Stoke-On-Trent"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994254?utm_medium=api&utm_source=9e3456fc",
+            "latitude": 53.026501,
+            "category": {
+                "label": "Travel Jobs",
+                "tag": "travel-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "longitude": -2.17664,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Work Lyf Group Limited"
+            },
+            "id": "5803994254",
+            "salary_min": 30160,
+            "description": "Class 2 HGV Driver Pallet Network Multi-Drop Pay Rate: £14.50 per hour Location: Stoke-on-Trent, Staffordshire (ST1 5GP) Job Type: Full-Time, Permanent Minimum Contracted Hours: 40 hours per week Work Lyf Group are recruiting on behalf of our client for a Class 2 HGV Driver to join their busy pallet network operation based in Stoke-on-Trent. This is an excellent opportunity for a professional and customer-focused Class 2 Driver looking for a stable role with consistent weekday work and a well-e…",
+            "salary_is_predicted": "0",
+            "title": "Class 2 Day Driver",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWp3bURIcUI4Ukc4Z1ByUEpUczNLQSIsImkiOiI1ODAzOTk0MjU0In0.Rkj6LmFVNQc-b8cDugPqRNKn7lX0O9ZADsiLslGet6A",
+            "salary_max": 30160,
+            "contract_type": "contract",
+            "contract_time": "full_time",
+            "created": "2026-07-17T00:42:35Z"
+        },
+        {
+            "latitude": 51.3633,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "logistics-warehouse-jobs",
+                "label": "Logistics & Warehouse Jobs"
+            },
+            "company": {
+                "display_name": "Forest Freight",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 0.608395,
+            "salary_min": 60000,
+            "description": "Pay: From £50,000.00 per year Job Description: We offer full time employment Monday to Friday, with a guaranteed 55 hours paid a week Overtime is constantly available as well as optional weekend work. We are recruiting tramping & day drivers. Average earnings for Tramper drivers (based on 65 hour week) - £57,610 per annum Average earnings for Day drivers (based on 60 hour week) - £48,020 per annum In addition to good working conditions, we offer; Your own vehicle An immediate start for the righ…",
+            "id": "5803994246",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Rainham, Gillingham",
+                "area": [
+                    "UK",
+                    "South East England",
+                    "Kent",
+                    "Gillingham",
+                    "Rainham"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994246?utm_medium=api&utm_source=9e3456fc",
+            "contract_type": "permanent",
+            "created": "2026-07-17T00:42:34Z",
+            "contract_time": "full_time",
+            "salary_is_predicted": "0",
+            "title": "HGV Class 1 Driver tramper",
+            "salary_max": 60000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWp3bURIcUI4Ukc4Z1ByUEpUczNLQSIsImkiOiI1ODAzOTk0MjQ2In0.aWEUPg8RLSZ_Z0mtU1ezgQakLk2cH9Yl_wtcgSDKKNM"
+        },
+        {
+            "category": {
+                "tag": "logistics-warehouse-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Logistics & Warehouse Jobs"
+            },
+            "latitude": 51.735802,
+            "id": "5803994249",
+            "description": "Picker / Packer (Temporary) Chelmsford We are currently looking for an experienced Pick & Packer to join our team in Chelmsford. Job Details: Location: Chelmsford Pay Rate: £12.71 per hour Hours: Monday to Friday, 8:00am 4:00pm Break: 30-minute lunch break Total Hours: 37.5 hours per week Key Responsibilities: Picking and packing orders accurately Preparing goods for dispatch Working efficiently to meet daily targets Following all health and safety procedures Requirements: Previous pick and pac…",
+            "salary_min": 26436,
+            "longitude": 0.469708,
+            "company": {
+                "display_name": "Pin Point Recruitment",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "UK",
+                    "Eastern England",
+                    "Essex",
+                    "Chelmsford"
+                ],
+                "display_name": "Chelmsford, Essex",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994249?utm_medium=api&utm_source=9e3456fc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_type": "contract",
+            "created": "2026-07-17T00:42:34Z",
+            "title": "Picker / Packer",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDI0OSIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.ehPNUWlk2y1y6kLXTzQbY_T_Eti8XLTLZzoObywteQ8",
+            "salary_max": 26436
+        },
+        {
+            "contract_type": "permanent",
+            "created": "2026-07-17T00:42:34Z",
+            "salary_is_predicted": "0",
+            "title": "Forklift Driver - Night Shift",
+            "salary_max": 29120,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDI1MiIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.Ky_J5k3iPLtb1J5u6k13G8Yc_Wdnv1laaPJYSEq9pJ8",
+            "latitude": 52.8069,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "logistics-warehouse-jobs",
+                "label": "Logistics & Warehouse Jobs"
+            },
+            "company": {
+                "display_name": "Oneplace Solutions Limited",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -1.64303,
+            "description": "OnePlace Solutions are seeking reliable and skilled Forklift Counterbalance Drivers to join their team based in Burton Upon Trent. The ideal candidate will be responsible for loading & unloading of freight in a pallet network environment. This role requires a strong understanding of a pallet network and the ability to handle various freight with a fast paced method. Job Responsibilities Operating Forklift Counterbalance Trucks loading and unloading heavy goods. Maintain accurate records of deli…",
+            "salary_min": 29120,
+            "id": "5803994252",
+            "location": {
+                "display_name": "Burton-On-Trent, Staffordshire",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "West Midlands",
+                    "Staffordshire",
+                    "Burton-On-Trent"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994252?utm_medium=api&utm_source=9e3456fc"
+        },
+        {
+            "contract_type": "contract",
+            "created": "2026-07-17T00:42:34Z",
+            "contract_time": "full_time",
+            "salary_is_predicted": "0",
+            "title": "Flt Driver",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDI0NyIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.pJboHGvNTvULLTwhxiOMP4BIyV1OTk-WQe-TiNT2LfM",
+            "salary_max": 63107,
+            "latitude": 53.281399,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "logistics-warehouse-jobs",
+                "label": "Logistics & Warehouse Jobs"
+            },
+            "longitude": -2.89783,
+            "company": {
+                "display_name": "Proman",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5803994247",
+            "description": " FLT DRIVER (Counterbalance) REQUIRED IN AUTOMOTIVE SECTOR for immediate start  Company Description: A global car manufacturer, you will be working at one of the motor vehicle plant located in Ellesmere Port CH65 Role: FLT Driver (Counterbalance) Pay: STD up to 37.5hrs – £15.17p/h  Shift Allowance SHIFT ALLOWANCE AM/PM(2 shifts rotation)  £1.67p/h Nights only  £5.06/h OT anytime over 7.5h Monday – Friday and Saturday - £22.76p/h OT Sunday - £30.34p/h Duties: to work anywhere within the warehous…",
+            "salary_min": 31553,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Ellesmere Port, Cheshire",
+                "area": [
+                    "UK",
+                    "North West England",
+                    "Cheshire",
+                    "Ellesmere Port"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994247?utm_medium=api&utm_source=9e3456fc"
+        },
+        {
+            "salary_max": 29848,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWp3bURIcUI4Ukc4Z1ByUEpUczNLQSIsImkiOiI1ODAzOTk0MjQ4In0.jDGl4JbpzzaZHK7AWipcg_bOrTADguSNte95NIvCQIk",
+            "salary_is_predicted": "0",
+            "title": "Warehouse Operative",
+            "contract_time": "full_time",
+            "created": "2026-07-17T00:42:34Z",
+            "contract_type": "contract",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994248?utm_medium=api&utm_source=9e3456fc",
+            "location": {
+                "area": [
+                    "UK",
+                    "South East England",
+                    "Oxfordshire",
+                    "Banbury"
+                ],
+                "display_name": "Banbury, Oxfordshire",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Swift Temps",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -1.34045,
+            "description": "Warehouse Operative Location: Banbury Pay rate: £14.35 per hour Hours: 07:00 16:20 Any 5 days out of 7 (Saturday always off  1 additional day off during the week) We are currently recruiting for a Warehouse Operative to join a busy and fast-paced warehouse operation in Banbury. This is a full-time, ongoing opportunity working within a chilled warehouse environment. Candidate must be comfortable working in cold temperatures. Duties of a Warehouse Operative: Voice picking using a headset system P…",
+            "salary_min": 29848,
+            "id": "5803994248",
+            "latitude": 52.060001,
+            "category": {
+                "label": "Logistics & Warehouse Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "logistics-warehouse-jobs"
+            }
+        },
+        {
+            "created": "2026-07-17T00:42:34Z",
+            "contract_type": "contract",
+            "salary_max": 25736.57,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDI1MSIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.UDwXFWTPAqPIeKeJiD2re8OrQ_HQDmvvVqhRIIvCU1I",
+            "title": "Production Operative",
+            "salary_is_predicted": "1",
+            "salary_min": 25736.57,
+            "description": "Production Operatives Location: Severals, Colchester £12.71 per hour Contract: Temp We're hiring Production Operatives for a on going temp contract for manufacturing company in Colchester. Shift Pattern: 6am - 2:30pm Monday to Thursday and 6am 2pm - Friday or 2:30pm - 11pm Monday to Friday and 2pm -10pm - Friday Production Operative Job Role: Monitoring a production line and conducting basic testing and quality checks Storing goods and raw materials in a factory or warehouse Adhering to relevan…",
+            "id": "5803994251",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Pin Point Recruitment"
+            },
+            "longitude": 0.901235,
+            "category": {
+                "label": "Manufacturing Jobs",
+                "tag": "manufacturing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "latitude": 51.889801,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994251?utm_medium=api&utm_source=9e3456fc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Colchester, Essex",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "Eastern England",
+                    "Essex",
+                    "Colchester"
+                ]
+            }
+        },
+        {
+            "id": "5803994253",
+            "description": "HGV Class 1 Drivers (CAT CE) *NEWLY QUALIFIED DRIVERS WELCOME TO APPLY* ASSESSMENTS AVAILABLE ASAP! Location: Coventry CV8 Job Type: Long-term ongoing Shift Patterns: Across Sunday to Friday (full time and part time options available) Start times windows: - Midnight - 3am - 12pm- 4pm - 4pm - 8pm - 8pm - Midnight Pay Rates: Weeks 112 (Including Rolled Up Holiday Pay) Day Shift: £19.88 Night Shift: £20.16 Weekends (Saturday & Sunday): £20.16 13 Weeks (Including Rolled Up Holiday Pay) Day Shift: £…",
+            "salary_min": 41350,
+            "longitude": -1.51266,
+            "company": {
+                "display_name": "The Recruitment Crowd  Limited",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "logistics-warehouse-jobs",
+                "label": "Logistics & Warehouse Jobs"
+            },
+            "latitude": 52.4058,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994253?utm_medium=api&utm_source=9e3456fc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "UK",
+                    "West Midlands",
+                    "Coventry"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Coventry, West Midlands"
+            },
+            "contract_time": "part_time",
+            "created": "2026-07-17T00:42:34Z",
+            "contract_type": "contract",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWp3bURIcUI4Ukc4Z1ByUEpUczNLQSIsImkiOiI1ODAzOTk0MjUzIn0.JU_V0xdHgQQvrpOfDb-F9MbFVDd41XXonPgYQDRMqrM",
+            "salary_max": 86361,
+            "title": "HGV Class 1 Driver",
+            "salary_is_predicted": "0"
+        },
+        {
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994244?utm_medium=api&utm_source=9e3456fc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Whitehaven, Cumbria",
+                "area": [
+                    "UK",
+                    "North West England",
+                    "Cumbria",
+                    "Whitehaven"
+                ]
+            },
+            "description": "Master Crew Transfer Vessel (CTV) Location: UK Offshore (Travel Required) Job Type: Full-Time / Rotational Salary: Master: £290 per day Master 500 CoC (or above): £315 per day Plus £20 daily subsistence allowance when working away from home to cover food costs. About the Role We are seeking experienced Masters to join our offshore marine operations team, operating modern Crew Transfer Vessels (CTVs) supporting the offshore renewable energy sector. The successful candidate will be responsible fo…",
+            "salary_min": 75400,
+            "id": "5803994244",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "The Recruitment Crowd  Limited"
+            },
+            "longitude": -3.58747,
+            "category": {
+                "label": "Energy, Oil & Gas Jobs",
+                "tag": "energy-oil-gas-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "latitude": 54.5494,
+            "salary_max": 81900,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDI0NCIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.iqljwskxO_pbj-7KnnGe9EJjY5V_iiYhJpKwYqu94Yo",
+            "title": "Master Crew Transfer Vessel (CTV)",
+            "salary_is_predicted": "0",
+            "created": "2026-07-17T00:42:28Z",
+            "contract_time": "full_time",
+            "contract_type": "contract"
+        },
+        {
+            "contract_time": "full_time",
+            "created": "2026-07-17T00:42:28Z",
+            "contract_type": "contract",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDIzOSIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.gtke2QK6Ug439TFxmYGqCWKZXFPpP80l8OdYSm6S4dg",
+            "salary_max": 81900,
+            "salary_is_predicted": "0",
+            "title": "Master Crew Transfer Vessel (CTV)",
+            "longitude": -2.96484,
+            "company": {
+                "display_name": "The Recruitment Crowd  Limited",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5803994239",
+            "description": "Master Crew Transfer Vessel (CTV) Location: UK Offshore (Travel Required) Job Type: Full-Time / Rotational Salary: Master: £290 per day Master 500 CoC (or above): £315 per day Plus £20 daily subsistence allowance when working away from home to cover food costs. About the Role We are seeking experienced Masters to join our offshore marine operations team, operating modern Crew Transfer Vessels (CTVs) supporting the offshore renewable energy sector. The successful candidate will be responsible fo…",
+            "salary_min": 75400,
+            "latitude": 57.6763,
+            "category": {
+                "label": "Energy, Oil & Gas Jobs",
+                "tag": "energy-oil-gas-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994239?utm_medium=api&utm_source=9e3456fc",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Buckie, Moray",
+                "area": [
+                    "UK",
+                    "Scotland",
+                    "Moray",
+                    "Buckie"
+                ]
+            }
+        },
+        {
+            "id": "5803994242",
+            "created": "2026-07-17T00:42:28Z",
+            "salary_min": 60000,
+            "description": "Retail Managers London Zachary Daniels Retail Recruitment are working with leading brands across London and want to speak with any Retail Manager ready for a new opportunity.If you are an experienced Retail Manager seeking development, progression or a fresh challenge, we want to hear from you. Retailers across the city are actively hiring and are looking for strong leadership, commercial awareness and the qualities that make a great Retail Manager .We recruit for: Area Managers / Regional Mana…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Zachary Daniels"
+            },
+            "category": {
+                "tag": "retail-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Retail Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDI0MiIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.8u8LHnudAM4PjHVvhmWbifbywBEsVe8qOUN7qX6PEzI",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994242?utm_medium=api&utm_source=9e3456fc",
+            "salary_max": 60000,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Retail Managers",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "UK",
+                    "London"
+                ],
+                "display_name": "London, UK",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "created": "2026-07-17T00:42:28Z",
+            "id": "5803994243",
+            "description": "My Insurance client is currently seeking for a Network Demand Manager to take ownership of the demand, forecasting, financial planning and stakeholder engagement activities for Global Network Services. Key Responsibilities Own and manage the Network demand pipeline, ensuring requirements from affiliates, operations, engineering and architecture teams are captured, assessed and prioritised. Develop and maintain network financial forecasts, budgets and cost allocation models to support business g…",
+            "salary_min": 0,
+            "company": {
+                "display_name": "Huxley Associates",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_type": "contract",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDI0MyIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.l-o3h-M-XSGx220hQC1l3N_U_TKP8Lakta_tK07JCdo",
+            "salary_max": 136760,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994243?utm_medium=api&utm_source=9e3456fc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Demand Manager - £526 per day Inside IR35 - Hybrid - Insurance",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "The City, Central London",
+                "area": [
+                    "UK",
+                    "London",
+                    "Central London",
+                    "The City"
+                ]
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994245?utm_medium=api&utm_source=9e3456fc",
+            "salary_max": 145340,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDI0NSIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.M6RfkCt3NP6nJN-tLteKdGGEaAm778QpiLfX87QwxKE",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Product Specialist (NetDocuments)",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "UK",
+                    "West Midlands",
+                    "Birmingham"
+                ],
+                "display_name": "Birmingham, West Midlands",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Product Specialist (NetDocuments) Role Overview: The Product Specialist in the Document Products team is primarily responsible for the day-to-day administration, support, and business-as-usual operation of the firm's document platforms, including NetDocuments and file transfer applications. These platforms are critical to the secure creation, management, governance, and delivery of client and firm content. Key Responsibilities: * Act as a trusted, knowledgeable resource for NetDocuments and rel…",
+            "salary_min": 130000,
+            "created": "2026-07-17T00:42:28Z",
+            "id": "5803994245",
+            "company": {
+                "display_name": "DGH Recruitment",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -1.89359,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "latitude": 52.483002
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Great Yarmouth, Norfolk",
+                "area": [
+                    "UK",
+                    "Eastern England",
+                    "Norfolk",
+                    "Great Yarmouth"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994241?utm_medium=api&utm_source=9e3456fc",
+            "latitude": 52.6077,
+            "category": {
+                "label": "Energy, Oil & Gas Jobs",
+                "tag": "energy-oil-gas-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "The Recruitment Crowd  Limited",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 1.73299,
+            "description": "Master Crew Transfer Vessel (CTV) Location: UK Offshore (Travel Required) Job Type: Full-Time / Rotational Salary: Master: £290 per day Master 500 CoC (or above): £315 per day Plus £20 daily subsistence allowance when working away from home to cover food costs. About the Role We are seeking experienced Masters to join our offshore marine operations team, operating modern Crew Transfer Vessels (CTVs) supporting the offshore renewable energy sector. The successful candidate will be responsible fo…",
+            "salary_min": 75400,
+            "id": "5803994241",
+            "salary_is_predicted": "0",
+            "title": "Master Crew Transfer Vessel (CTV)",
+            "salary_max": 81900,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDI0MSIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.SqKxF7pZEN8IW1b5CuFo8Y2mSl-rgYiHXqYJHHGV4qs",
+            "contract_type": "contract",
+            "contract_time": "full_time",
+            "created": "2026-07-17T00:42:28Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994240?utm_medium=api&utm_source=9e3456fc",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Deeside, Flintshire",
+                "area": [
+                    "UK",
+                    "Wales",
+                    "Flintshire",
+                    "Deeside"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "The Recruitment Crowd  Limited"
+            },
+            "longitude": -3.03035,
+            "salary_min": 75400,
+            "description": "Master Crew Transfer Vessel (CTV) Location: UK Offshore (Travel Required) Job Type: Full-Time / Rotational Salary: Master: £290 per day Master 500 CoC (or above): £315 per day Plus £20 daily subsistence allowance when working away from home to cover food costs. About the Role We are seeking experienced Masters to join our offshore marine operations team, operating modern Crew Transfer Vessels (CTVs) supporting the offshore renewable energy sector. The successful candidate will be responsible fo…",
+            "id": "5803994240",
+            "latitude": 53.202702,
+            "category": {
+                "label": "Energy, Oil & Gas Jobs",
+                "tag": "energy-oil-gas-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_max": 81900,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDI0MCIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0.1delXdIrCJujPwE76fCx5hKQkUbQBEW8cWEVmSkXdGc",
+            "salary_is_predicted": "0",
+            "title": "Master Crew Transfer Vessel (CTV)",
+            "created": "2026-07-17T00:42:28Z",
+            "contract_time": "full_time",
+            "contract_type": "contract"
+        },
+        {
+            "contract_type": "contract",
+            "contract_time": "part_time",
+            "created": "2026-07-17T00:42:27Z",
+            "salary_is_predicted": "0",
+            "title": "Property Inspector",
+            "salary_max": 35000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzk5NDIzOCIsInMiOiJVandtREhxQjhSRzhnUHJQSlRzM0tBIn0._qJey9-V0R2usp4vOwRu-arM5LBSvsDwAXjVFrmtAGo",
+            "latitude": 51.54571,
+            "category": {
+                "label": "Trade & Construction Jobs",
+                "tag": "trade-construction-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "HR Solutions"
+            },
+            "longitude": -0.016402,
+            "description": "Hours: 37.5 hours per week, although will consider applications for part-time Contract: Fixed term 6 months contract Peter Bedford Housing Association (PBHA) is a dynamic housing association with a strong social mission, to create positive change in peoples lives. We provide high-quality homes and support services across Hackney, Islington and Newham, empowering people to achieve greater independence and wellbeing. Our tenants and participants include people who have experienced homelessness, m…",
+            "salary_min": 35000,
+            "id": "5803994238",
+            "location": {
+                "area": [
+                    "UK",
+                    "London",
+                    "East London"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "East London, London"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5803994238?utm_medium=api&utm_source=9e3456fc"
+        }
+    ],
+    "mean": 42451.78,
+    "count": 765874
+}
