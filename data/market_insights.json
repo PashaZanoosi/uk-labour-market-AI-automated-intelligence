@@ -1,0 +1,228 @@
+{
+    "generated_at": "2026-07-18T00:59:34.064203",
+    "top_skills": [
+        {
+            "skill": "Warehouse Operations",
+            "category": "Domain",
+            "taxonomy": "Engineering & Operations",
+            "job_demand": 9
+        },
+        {
+            "skill": "Time Management",
+            "category": "Soft Skill",
+            "taxonomy": "Delivery Methods",
+            "job_demand": 6
+        },
+        {
+            "skill": "Stakeholder Management",
+            "category": "Business",
+            "taxonomy": "Stakeholder & Customer",
+            "job_demand": 4
+        },
+        {
+            "skill": "Customer Service",
+            "category": "Soft Skill",
+            "taxonomy": "Stakeholder & Customer",
+            "job_demand": 4
+        },
+        {
+            "skill": "Team Management",
+            "category": "Soft Skill",
+            "taxonomy": "Management",
+            "job_demand": 4
+        },
+        {
+            "skill": "Offshore Operations",
+            "category": "Domain",
+            "taxonomy": "Engineering & Operations",
+            "job_demand": 4
+        },
+        {
+            "skill": "Marine Operations Management",
+            "category": "Business",
+            "taxonomy": "HR & People",
+            "job_demand": 4
+        },
+        {
+            "skill": "Inventory Management",
+            "category": "Technical",
+            "taxonomy": "Logistics",
+            "job_demand": 4
+        },
+        {
+            "skill": "Parcel Handling",
+            "category": "Technical",
+            "taxonomy": "Logistics",
+            "job_demand": 3
+        },
+        {
+            "skill": "Leadership",
+            "category": "Soft Skill",
+            "taxonomy": "Leadership Behaviour",
+            "job_demand": 3
+        },
+        {
+            "skill": "Mental Health Support",
+            "category": "Domain",
+            "taxonomy": "Healthcare",
+            "job_demand": 3
+        },
+        {
+            "skill": "Adaptability",
+            "category": "Soft Skill",
+            "taxonomy": "Leadership Behaviour",
+            "job_demand": 2
+        },
+        {
+            "skill": "Career Development",
+            "category": "Business",
+            "taxonomy": "HR & People",
+            "job_demand": 2
+        },
+        {
+            "skill": "Community-Based Support",
+            "category": "Domain",
+            "taxonomy": "Healthcare",
+            "job_demand": 2
+        },
+        {
+            "skill": "Contract Management",
+            "category": "Business",
+            "taxonomy": "Management",
+            "job_demand": 2
+        },
+        {
+            "skill": "Crew Management",
+            "category": "Business",
+            "taxonomy": "HR & People",
+            "job_demand": 2
+        },
+        {
+            "skill": "Crew Transfer Vessel Operations",
+            "category": "Technical",
+            "taxonomy": "Engineering & Operations",
+            "job_demand": 2
+        },
+        {
+            "skill": "Customer Service Management",
+            "category": "Business",
+            "taxonomy": "Stakeholder & Customer",
+            "job_demand": 2
+        },
+        {
+            "skill": "Estate Agency Management",
+            "category": "Domain",
+            "taxonomy": "HR & People",
+            "job_demand": 2
+        },
+        {
+            "skill": "Funding Management",
+            "category": "Business",
+            "taxonomy": "Commercial",
+            "job_demand": 2
+        }
+    ],
+    "taxonomy_demand": [
+        {
+            "taxonomy": "Engineering & Operations",
+            "jobs": 22,
+            "skills": 25
+        },
+        {
+            "taxonomy": "HR & People",
+            "jobs": 20,
+            "skills": 19
+        },
+        {
+            "taxonomy": "Logistics",
+            "jobs": 12,
+            "skills": 15
+        },
+        {
+            "taxonomy": "Management",
+            "jobs": 11,
+            "skills": 9
+        },
+        {
+            "taxonomy": "Stakeholder & Customer",
+            "jobs": 9,
+            "skills": 8
+        },
+        {
+            "taxonomy": "Automotive",
+            "jobs": 8,
+            "skills": 11
+        },
+        {
+            "taxonomy": "Delivery Methods",
+            "jobs": 8,
+            "skills": 3
+        },
+        {
+            "taxonomy": "Healthcare",
+            "jobs": 8,
+            "skills": 13
+        },
+        {
+            "taxonomy": "Leadership Behaviour",
+            "jobs": 7,
+            "skills": 3
+        },
+        {
+            "taxonomy": "Commercial",
+            "jobs": 4,
+            "skills": 5
+        },
+        {
+            "taxonomy": "Tools & Software",
+            "jobs": 4,
+            "skills": 6
+        },
+        {
+            "taxonomy": "Energy",
+            "jobs": 4,
+            "skills": 3
+        },
+        {
+            "taxonomy": "IT & Systems",
+            "jobs": 4,
+            "skills": 8
+        },
+        {
+            "taxonomy": "Education",
+            "jobs": 3,
+            "skills": 2
+        },
+        {
+            "taxonomy": "Communication",
+            "jobs": 2,
+            "skills": 1
+        },
+        {
+            "taxonomy": "Data & Analytics",
+            "jobs": 2,
+            "skills": 2
+        },
+        {
+            "taxonomy": "Creative & Design",
+            "jobs": 1,
+            "skills": 2
+        },
+        {
+            "taxonomy": "Process Improvement",
+            "jobs": 1,
+            "skills": 1
+        },
+        {
+            "taxonomy": "Life Sciences",
+            "jobs": 1,
+            "skills": 6
+        }
+    ],
+    "summary": {
+        "total_skills": 142,
+        "total_taxonomies": 19,
+        "highest_demand_skill": "Warehouse Operations",
+        "highest_demand_taxonomy": "Engineering & Operations"
+    }
+}
