@@ -1,0 +1,207 @@
+job_id,skill_name,category,taxonomy,confidence_score
+5804007899,Recruitment Solutions,Business,HR & People,1.0
+5804007899,Partnership Development,Business,Stakeholder & Customer,1.0
+5804007899,Talent Sourcing,Business,HR & People,1.0
+5804007899,Client Management,Business,Stakeholder & Customer,1.0
+5804007899,Further Education Sector Knowledge,Domain,Education,1.0
+5804007825,Art Direction,Technical,Creative & Design,1.0
+5804007825,Creative Direction,Technical,Creative & Design,1.0
+5804007825,Hybrid Work Management,Business,HR & People,0.7
+5804007825,Contract Management,Business,Management,0.7
+5804007825,Agency Management,Domain,Management,0.7
+5804007138,High Throughput Screening,Technical,Life Sciences,1.0
+5804007138,In Vivo Screening Assays,Technical,Life Sciences,1.0
+5804007138,Compound Profiling,Technical,Life Sciences,1.0
+5804007138,Plant Science,Domain,Life Sciences,1.0
+5804007138,AgriTech,Domain,Life Sciences,1.0
+5804007138,Biology,Domain,Life Sciences,1.0
+5804006481,Light Vehicle Maintenance,Technical,Automotive,1.0
+5804006481,Vehicle Repair,Technical,Automotive,0.7
+5804006476,Customer Service,Soft Skill,Stakeholder & Customer,0.7
+5804006476,Time Management,Soft Skill,Delivery Methods,0.5
+5804006476,Adaptability,Soft Skill,Leadership Behaviour,0.5
+5804006476,Retail Operations,Domain,Engineering & Operations,0.9
+5804006478,Vehicle Maintenance,Domain,Automotive,1.0
+5804006478,Vehicle Repair,Technical,Automotive,1.0
+5804006478,Automotive Service,Domain,Automotive,1.0
+5804006484,MOT Testing,Technical,Automotive,1.0
+5804006484,Automotive Maintenance,Domain,Automotive,1.0
+5804006484,Automotive Repair,Domain,Automotive,1.0
+5804006484,Bonus Scheme Management,Business,HR & People,0.7
+5804006357,Leadership,Soft Skill,Leadership Behaviour,1.0
+5804006357,Estate Agency Management,Domain,HR & People,1.0
+5804006357,Team Management,Soft Skill,Management,0.7
+5804006357,Career Development,Business,HR & People,0.7
+5804006328,Leadership,Soft Skill,Leadership Behaviour,1.0
+5804006328,Estate Agency Management,Domain,HR & People,1.0
+5804006328,Team Management,Soft Skill,Management,0.7
+5804006328,Career Development,Business,HR & People,0.7
+5804004336,Time Management,Soft Skill,Delivery Methods,0.7
+5804004336,Adaptability,Soft Skill,Leadership Behaviour,0.7
+5804004336,Higher Education,Domain,Education,0.9
+5804004336,Funding Management,Business,Commercial,0.5
+5803995094,Customer Service Management,Business,Stakeholder & Customer,1.0
+5803995094,Team Management,Soft Skill,Management,0.7
+5803995094,Retail Management,Domain,Management,1.0
+5803995094,Stakeholder Management,Business,Stakeholder & Customer,0.7
+5803995094,Customer Relationship Building,Business,Stakeholder & Customer,1.0
+5803995095,Customer Service Management,Business,Stakeholder & Customer,1.0
+5803995095,Team Management,Soft Skill,Management,0.7
+5803995095,Retail Management,Domain,Management,1.0
+5803995095,Stakeholder Management,Business,Stakeholder & Customer,0.7
+5803995095,Relationship Building,Soft Skill,Stakeholder & Customer,0.7
+5803995084,Mental Health Support,Domain,Healthcare,1.0
+5803995084,Substance Abuse Counselling,Domain,HR & People,1.0
+5803995086,Psychological Support,Domain,HR & People,1.0
+5803995086,Person-Centred Approach,Methodology,Communication,1.0
+5803995086,Mental Health Support,Domain,Healthcare,1.0
+5803995086,Trauma Support,Domain,Healthcare,1.0
+5803995086,Community-Based Support,Domain,Healthcare,1.0
+5803995083,Person-Centred Approach,Methodology,Communication,1.0
+5803995083,Psychological Support,Domain,HR & People,1.0
+5803995083,Mental Health Support,Domain,Healthcare,1.0
+5803995083,Trauma Support,Domain,Healthcare,1.0
+5803995083,Neurodiversity support,Domain,HR & People,1.0
+5803995083,Community-Based Support,Domain,Healthcare,1.0
+5803994281,Standard Operating Procedures,Methodology,Engineering & Operations,1.0
+5803994281,Continuous Improvement,Methodology,Process Improvement,1.0
+5803994281,Team Leadership,Business,Leadership Behaviour,0.7
+5803994281,Warehouse Operations,Domain,Engineering & Operations,1.0
+5803994276,Order Picking,Technical,Logistics,1.0
+5803994276,Packing,Technical,Logistics,1.0
+5803994276,Vehicle Loading,Technical,Automotive,1.0
+5803994276,Inventory Management,Technical,Logistics,0.7
+5803994276,Logistics,Domain,Logistics,0.7
+5803994276,Customer Service,Soft Skill,Stakeholder & Customer,0.7
+5803994279,Warehouse Operations,Domain,Engineering & Operations,1.0
+5803994279,DBS Check,Technical,HR & People,1.0
+5803994277,Warehouse Operations,Domain,Engineering & Operations,1.0
+5803994277,Packing and Assembly,Technical,Engineering & Operations,1.0
+5803994277,Logistics and Distribution,Domain,Logistics,0.7
+5803994280,Warehouse Operations,Domain,Engineering & Operations,1.0
+5803994280,Parcel Handling,Technical,Logistics,1.0
+5803994280,Scanning and Sorting,Technical,Engineering & Operations,1.0
+5803994280,Logistics Management,Domain,Logistics,0.7
+5803994282,Warehouse Operations,Domain,Engineering & Operations,1.0
+5803994282,Parcel Handling,Technical,Logistics,1.0
+5803994282,Inventory Management,Technical,Logistics,0.7
+5803994282,Logistics Coordination,Technical,Logistics,0.7
+5803994282,Time Management,Soft Skill,Delivery Methods,0.5
+5803994278,Warehouse Operations,Domain,Engineering & Operations,1.0
+5803994278,Parcel Handling,Technical,Logistics,1.0
+5803994278,Scanning and Sorting,Technical,Engineering & Operations,1.0
+5803994278,Logistics Management,Domain,Logistics,0.7
+5803994274,Transport Management,Technical,Logistics,1.0
+5803994274,Warehouse Management,Technical,Management,1.0
+5803994274,Inventory Control,Technical,Engineering & Operations,1.0
+5803994274,Vehicle Maintenance,Domain,Automotive,1.0
+5803994274,Health and Safety Management,Technical,Engineering & Operations,1.0
+5803994274,Compliance Management,Business,Management,1.0
+5803994274,Team Leadership,Business,Leadership Behaviour,1.0
+5803994274,Logistics Operations,Domain,Automotive,1.0
+5803994273,Hotel Services,Domain,Stakeholder & Customer,1.0
+5803994273,Customer Service,Soft Skill,Stakeholder & Customer,0.7
+5803994273,Housekeeping,Domain,HR & People,1.0
+5803994270,Care Planning,Domain,Healthcare,0.7
+5803994270,Dementia Care,Domain,Healthcare,0.7
+5803994270,Nursing Care,Domain,Healthcare,0.7
+5803994270,Residential Care,Domain,Healthcare,0.7
+5803994270,PVG,Technical,HR & People,1.0
+5803994271,Care Giving,Domain,Healthcare,1.0
+5803994271,Personal Assistance,Domain,HR & People,1.0
+5803994269,Care Experience,Domain,Healthcare,0.7
+5803994269,Disability Support,Domain,Healthcare,0.7
+5803994269,Home Care,Domain,Healthcare,0.7
+5803994268,Care Support,Domain,Healthcare,1.0
+5803994268,Training Participation,Soft Skill,Delivery Methods,0.7
+5803994267,SAP Payroll,Technical,Tools & Software,1.0
+5803994267,SAP HCM,Technical,Tools & Software,1.0
+5803994267,System Integration,Technical,IT & Systems,0.7
+5803994267,Project Management,Business,Management,0.7
+5803994267,Stakeholder Management,Business,Stakeholder & Customer,0.7
+5803994267,Payroll Processing,Domain,Engineering & Operations,0.7
+5803994267,HR Systems,Domain,HR & People,0.7
+5803994264,Cloud Computing,Technical,IT & Systems,1.0
+5803994264,Cyber Security,Technical,IT & Systems,1.0
+5803994264,Digital Transformation,Domain,Tools & Software,1.0
+5803994264,IT Service Management,Technical,IT & Systems,0.7
+5803994263,Audiovisual Systems,Domain,IT & Systems,1.0
+5803994263,Remote Technical Support,Technical,IT & Systems,1.0
+5803994263,Helpdesk Operations,Technical,Engineering & Operations,1.0
+5803994263,VNOC Engineering,Technical,Engineering & Operations,1.0
+5803994263,Shift Pattern Management,Business,Management,0.7
+5803994254,HGV Driving,Technical,Logistics,1.0
+5803994254,Pallet Network Operation,Domain,Engineering & Operations,1.0
+5803994254,Multi-Drop Delivery,Technical,Delivery Methods,1.0
+5803994254,Customer Service,Soft Skill,Stakeholder & Customer,0.7
+5803994249,Order Picking,Technical,Logistics,1.0
+5803994249,Packing,Technical,Logistics,1.0
+5803994249,Inventory Management,Technical,Logistics,0.7
+5803994249,Health and Safety Procedures,Domain,Engineering & Operations,1.0
+5803994249,Time Management,Soft Skill,Delivery Methods,0.7
+5803994249,Warehouse Operations,Domain,Engineering & Operations,0.7
+5803994252,Forklift Operation,Technical,Engineering & Operations,1.0
+5803994252,Pallet Network Management,Domain,HR & People,1.0
+5803994252,Freight Handling,Technical,Automotive,1.0
+5803994252,Record Keeping,Business,Engineering & Operations,1.0
+5803994247,FLT Operation,Technical,Engineering & Operations,1.0
+5803994247,Counterbalance Forklift Operation,Technical,Engineering & Operations,1.0
+5803994247,Warehouse Operations,Domain,Engineering & Operations,1.0
+5803994247,Automotive Industry Knowledge,Domain,Automotive,1.0
+5803994247,Shift Work Management,Business,HR & People,0.7
+5803994247,Time Management,Soft Skill,Delivery Methods,0.5
+5803994248,Voice Picking,Technical,Logistics,1.0
+5803994248,Warehouse Management,Technical,Management,1.0
+5803994248,Headset System Operation,Technical,Engineering & Operations,1.0
+5803994251,Quality Control,Technical,Engineering & Operations,1.0
+5803994251,Inventory Management,Technical,Logistics,1.0
+5803994251,Manufacturing Processes,Domain,Engineering & Operations,1.0
+5803994251,Production Monitoring,Technical,Engineering & Operations,1.0
+5803994251,Warehouse Operations,Domain,Engineering & Operations,1.0
+5803994253,HGV Class 1 Driving,Technical,Logistics,1.0
+5803994253,CAT CE Certification,Technical,Tools & Software,1.0
+5803994253,Logistics Operations,Domain,Automotive,0.7
+5803994253,Shift Management,Business,Management,0.7
+5803994244,Offshore Operations,Domain,Engineering & Operations,1.0
+5803994244,Marine Operations Management,Business,HR & People,0.7
+5803994244,Renewable Energy,Domain,Energy,1.0
+5803994244,Vessel Operations,Technical,Engineering & Operations,1.0
+5803994244,Crew Management,Business,HR & People,0.7
+5803994239,Offshore Operations,Domain,Engineering & Operations,1.0
+5803994239,Marine Operations Management,Business,HR & People,0.7
+5803994239,Crew Transfer Vessel Operations,Technical,Engineering & Operations,1.0
+5803994239,Renewable Energy Sector Knowledge,Domain,Energy,1.0
+5803994239,Vessel Management,Technical,Energy,0.7
+5803994242,Leadership,Soft Skill,Leadership Behaviour,0.7
+5803994242,Commercial Awareness,Business,Commercial,0.9
+5803994243,Financial Planning,Business,Commercial,1.0
+5803994243,Forecasting,Technical,Data & Analytics,1.0
+5803994243,Budgeting,Business,Commercial,1.0
+5803994243,Cost Allocation,Business,Commercial,1.0
+5803994243,Stakeholder Management,Business,Stakeholder & Customer,1.0
+5803994243,Network Management,Technical,Engineering & Operations,1.0
+5803994245,NetDocuments Administration,Technical,Tools & Software,1.0
+5803994245,Document Management,Technical,Engineering & Operations,1.0
+5803994245,File Transfer Management,Technical,IT & Systems,1.0
+5803994245,Content Governance,Business,Tools & Software,1.0
+5803994245,Information Security,Technical,IT & Systems,0.7
+5803994241,Offshore Operations,Domain,Engineering & Operations,1.0
+5803994241,Marine Operations Management,Business,HR & People,0.9
+5803994241,Crew Transfer Vessel Operations,Technical,Engineering & Operations,1.0
+5803994241,Renewable Energy Sector Knowledge,Domain,Energy,1.0
+5803994241,Vessel Management,Technical,Energy,0.9
+5803994240,Offshore Operations,Domain,Engineering & Operations,1.0
+5803994240,Marine Operations Management,Business,HR & People,0.7
+5803994240,Renewable Energy,Domain,Energy,1.0
+5803994240,Vessel Operations,Technical,Engineering & Operations,1.0
+5803994240,Crew Management,Business,HR & People,0.7
+5803994238,Housing Management,Domain,HR & People,1.0
+5803994238,Social Support Services,Domain,Healthcare,1.0
+5803994238,Contract Management,Business,Management,0.7
+5804004335,Data Analysis,Technical,Data & Analytics,0.5
+5804004335,Time Management,Soft Skill,Delivery Methods,0.7
+5804004335,Higher Education,Domain,Education,1.0
+5804004335,Funding Management,Business,Commercial,0.7
+5803994246,Tramping,Domain,Logistics,1.0
+5803994246,Day driving,Domain,Logistics,1.0
+5803994246,Vehicle operation,Technical,Logistics,0.7

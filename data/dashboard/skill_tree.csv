@@ -1,0 +1,143 @@
+skill_name,category,taxonomy,parent_id
+Partnership Development,Business,Stakeholder & Customer,2
+Talent Sourcing,Business,HR & People,2
+Client Management,Business,Stakeholder & Customer,2
+Hybrid Work Management,Business,HR & People,2
+Contract Management,Business,Management,2
+Agency Management,Domain,Management,2
+Art Direction,Technical,Creative & Design,4
+High Throughput Screening,Technical,Life Sciences,4
+AgriTech,Domain,Life Sciences,4
+Light Vehicle Maintenance,Technical,Automotive,4
+Vehicle Repair,Technical,Automotive,4
+Customer Service,Soft Skill,Stakeholder & Customer,2
+Time Management,Soft Skill,Delivery Methods,3
+Retail Operations,Domain,Engineering & Operations,1
+Vehicle Maintenance,Domain,Automotive,4
+Automotive Service,Domain,Automotive,4
+MOT Testing,Technical,Automotive,4
+Automotive Maintenance,Domain,Automotive,4
+Bonus Scheme Management,Business,HR & People,2
+Leadership,Soft Skill,Leadership Behaviour,5
+Estate Agency Management,Domain,HR & People,2
+Team Management,Soft Skill,Management,2
+Career Development,Business,HR & People,2
+Higher Education,Domain,Education,4
+Customer Service Management,Business,Stakeholder & Customer,2
+Retail Management,Domain,Management,2
+Stakeholder Management,Business,Stakeholder & Customer,2
+Customer Relationship Building,Business,Stakeholder & Customer,2
+Mental Health Support,Domain,Healthcare,4
+Substance Abuse Counselling,Domain,HR & People,2
+Psychological Support,Domain,HR & People,2
+Person-Centred Approach,Methodology,Communication,5
+Trauma Support,Domain,Healthcare,4
+Community-Based Support,Domain,Healthcare,4
+Standard Operating Procedures,Methodology,Engineering & Operations,1
+Continuous Improvement,Methodology,Process Improvement,3
+Team Leadership,Business,Leadership Behaviour,5
+Warehouse Operations,Domain,Engineering & Operations,1
+Order Picking,Technical,Logistics,4
+Packing,Technical,Logistics,4
+Vehicle Loading,Technical,Automotive,4
+Logistics,Domain,Logistics,4
+DBS Check,Technical,HR & People,2
+Packing and Assembly,Technical,Engineering & Operations,1
+Logistics and Distribution,Domain,Logistics,4
+Parcel Handling,Technical,Logistics,4
+Logistics Management,Domain,Logistics,4
+Logistics Coordination,Technical,Logistics,4
+Transport Management,Technical,Logistics,4
+Warehouse Management,Technical,Management,2
+Inventory Control,Technical,Engineering & Operations,1
+Health and Safety Management,Technical,Engineering & Operations,1
+Logistics Operations,Domain,Automotive,4
+Hotel Services,Domain,Stakeholder & Customer,2
+Housekeeping,Domain,HR & People,2
+Care Planning,Domain,Healthcare,4
+Dementia Care,Domain,Healthcare,4
+Nursing Care,Domain,Healthcare,4
+Residential Care,Domain,Healthcare,4
+PVG,Technical,HR & People,2
+Personal Assistance,Domain,HR & People,2
+Care Experience,Domain,Healthcare,4
+Disability Support,Domain,Healthcare,4
+Home Care,Domain,Healthcare,4
+Training Participation,Soft Skill,Delivery Methods,3
+SAP Payroll,Technical,Tools & Software,1
+SAP HCM,Technical,Tools & Software,1
+System Integration,Technical,IT & Systems,1
+Payroll Processing,Domain,Engineering & Operations,1
+HR Systems,Domain,HR & People,2
+Cloud Computing,Technical,IT & Systems,1
+Cyber Security,Technical,IT & Systems,1
+Digital Transformation,Domain,Tools & Software,1
+Audiovisual Systems,Domain,IT & Systems,1
+Remote Technical Support,Technical,IT & Systems,1
+Helpdesk Operations,Technical,Engineering & Operations,1
+VNOC Engineering,Technical,Engineering & Operations,1
+Shift Pattern Management,Business,Management,2
+HGV Driving,Technical,Logistics,4
+Multi-Drop Delivery,Technical,Delivery Methods,3
+Health and Safety Procedures,Domain,Engineering & Operations,1
+Forklift Operation,Technical,Engineering & Operations,1
+Pallet Network Management,Domain,HR & People,2
+Freight Handling,Technical,Automotive,4
+Record Keeping,Business,Engineering & Operations,1
+FLT Operation,Technical,Engineering & Operations,1
+Automotive Industry Knowledge,Domain,Automotive,4
+Shift Work Management,Business,HR & People,2
+Voice Picking,Technical,Logistics,4
+Headset System Operation,Technical,Engineering & Operations,1
+Quality Control,Technical,Engineering & Operations,1
+Manufacturing Processes,Domain,Engineering & Operations,1
+Recruitment Solutions,Business,HR & People,2
+Further Education Sector Knowledge,Domain,Education,4
+Adaptability,Soft Skill,Leadership Behaviour,5
+Automotive Repair,Domain,Automotive,4
+Funding Management,Business,Commercial,2
+Relationship Building,Soft Skill,Stakeholder & Customer,2
+Neurodiversity support,Domain,HR & People,2
+Inventory Management,Technical,Logistics,4
+Scanning and Sorting,Technical,Engineering & Operations,1
+Compliance Management,Business,Management,2
+Care Giving,Domain,Healthcare,4
+Care Support,Domain,Healthcare,4
+Project Management,Business,Management,2
+IT Service Management,Technical,IT & Systems,1
+Pallet Network Operation,Domain,Engineering & Operations,1
+Counterbalance Forklift Operation,Technical,Engineering & Operations,1
+Production Monitoring,Technical,Engineering & Operations,1
+HGV Class 1 Driving,Technical,Logistics,4
+CAT CE Certification,Technical,Tools & Software,1
+Shift Management,Business,Management,2
+Offshore Operations,Domain,Engineering & Operations,1
+Marine Operations Management,Business,HR & People,2
+Renewable Energy,Domain,Energy,4
+Vessel Operations,Technical,Engineering & Operations,1
+Crew Management,Business,HR & People,2
+Crew Transfer Vessel Operations,Technical,Engineering & Operations,1
+Renewable Energy Sector Knowledge,Domain,Energy,4
+Vessel Management,Technical,Energy,4
+Commercial Awareness,Business,Commercial,2
+Financial Planning,Business,Commercial,2
+Forecasting,Technical,Data & Analytics,1
+Budgeting,Business,Commercial,2
+Cost Allocation,Business,Commercial,2
+Network Management,Technical,Engineering & Operations,1
+NetDocuments Administration,Technical,Tools & Software,1
+Document Management,Technical,Engineering & Operations,1
+File Transfer Management,Technical,IT & Systems,1
+Content Governance,Business,Tools & Software,1
+Information Security,Technical,IT & Systems,1
+Housing Management,Domain,HR & People,2
+Social Support Services,Domain,Healthcare,4
+Creative Direction,Technical,Creative & Design,4
+In Vivo Screening Assays,Technical,Life Sciences,4
+Plant Science,Domain,Life Sciences,4
+Biology,Domain,Life Sciences,4
+Compound Profiling,Technical,Life Sciences,4
+Data Analysis,Technical,Data & Analytics,1
+Tramping,Domain,Logistics,4
+Day driving,Domain,Logistics,4
+Vehicle operation,Technical,Logistics,4
